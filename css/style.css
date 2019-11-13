@@ -48,7 +48,6 @@ p.small {
 #Menu {
 	background-color: #556;
 	position: fixed;
-	top: 0px;
 }
 
 #Menu ul {
@@ -92,6 +91,8 @@ header {
 	background-image: url("/images/books.jpg");
 	border-radius: 6px 6px 0 0;
 	border-bottom: 4px solid cornflowerblue;
+	position: fixed;
+	top: 0px;
 }
 
 header span {
