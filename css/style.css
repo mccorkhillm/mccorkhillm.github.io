@@ -1,6 +1,6 @@
 
 body {
-	background: lightgrey;
+	background: aliceblue;
 	font-size:100%;
 }
 
@@ -64,14 +64,13 @@ p, ul, ol {
 }
 
 #PageContent {
-	background: #efefef;
+	background: gainsboro;
 	padding: 18px 32px;
 }
 
 header, footer {
 	font-family: Helvetica, sans-serif;
 	text-align:center;
-	text-transform: uppercase;
 	padding: 12px;
 	background: #556;
 	color: goldenrod;
@@ -79,7 +78,7 @@ header, footer {
 
 header {
 	border-radius: 6px 6px 0 0;
-	border-bottom: 4px solid cornflowerblue;
+	border-bottom: 4px solid aliceblue;
 }
 
 header span {
@@ -98,7 +97,7 @@ footer span {
 }
 
 table {
-	width: 85%;
+	width: 90%;
 	margin:0 auto;
 	font-family: Helvetica, sans-serif;
 	font-size:12px;
@@ -135,59 +134,8 @@ textarea {
 	height:100px;
 }
 
-#Request table,
-#Request table tr,
-#Request table td {
-	border:0;
-	padding:3px;
-}
-
-#Request table {
-	border:2px solid #666;
-	border-radius:6px;
-	background:#fff;
-}
-
-#Request table label {
-	font-weight:bold;
-}
-
-#Response p {
-	line-height:1.33em;
-}
-
-#Books table {
-	background: #fff;
-}
-
-#Book {
-	overflow: auto;
-}
-
-#Book h1 {
-  font-size:3em;
-  margin:0;
-  margin-bottom:9px;
-}
-
-#BookByLine {
-  font-style: italic;
-}
-
-#BookCover {
-  padding:12px;
-  height:150px;
-  width:auto;
-  float:left;
-}
-
-#BookNotes {
-  font-size:1.1em;
-  line-height: 1.25em;
-}
-
 a:link {
-  color: cornflowerblue;
+  color: azure;
 	text-decoration: none;
 }
 
