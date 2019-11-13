@@ -47,6 +47,8 @@ p.small {
 
 #Menu {
 	background-color: #556;
+	position: fixed;
+	top: 0px;
 }
 
 #Menu ul {
