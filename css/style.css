@@ -82,12 +82,12 @@ p.small {
 header, footer {
 	font-family: Helvetica, sans-serif;
 	text-align: center;
-	padding: 12px;
-	background: #556;
+	padding: 0px;
 	color: goldenrod;
 }
 
 header {
+	background-image: url("/images/books.jpg");
 	border-radius: 6px 6px 0 0;
 	border-bottom: 4px solid cornflowerblue;
 }
@@ -100,6 +100,7 @@ header span {
 
 footer {
 	border-radius: 0 0 6px 6px;
+	background-color: #556
 }
 
 footer span {
