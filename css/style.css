@@ -2,6 +2,7 @@
 body {
 	background: lightgrey;
 	font-size:100%;
+	width:100%;
 }
 
 h1, h2, h3, h4 {
@@ -42,13 +43,14 @@ p.small {
 
 #Content {
 	margin:0 auto;
+	width: 90%;
 }
 
 #Menu {
 	background-color: #556;
 	position: fixed;
 	top:0;
-	width: 99%;
+	width: 90%;
 }
 
 #Menu ul {
@@ -86,6 +88,7 @@ header, footer {
 	text-align: center;
 	padding: 0px;
 	color: goldenrod;
+	width:100%;
 }
 
 header {
@@ -112,7 +115,7 @@ footer span {
 }
 
 table {
-	width: 100%;
+	width: 90%;
 	margin:0 auto;
 	font-family: Helvetica, sans-serif;
 	font-size:12px;
