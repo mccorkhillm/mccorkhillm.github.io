@@ -108,13 +108,11 @@ header span {
 footer {
 	border-radius: 0 0 6px 6px;
 	background-color: #556
-	bottom: 0;
 }
 
 footer span {
 	padding: 0px;
 	display: block;
-	margin: 0;
 }
 
 table {
