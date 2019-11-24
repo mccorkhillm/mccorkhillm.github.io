@@ -1,6 +1,6 @@
 
 body {
-	background: darkblue;
+	background: #003976;
 	font-size:100%;
 	width:100%;
 }
@@ -75,7 +75,7 @@ p.small {
 }
 
 #Menu li a:hover {
-	background-color: goldenrod;
+	background-color: #EBAB21;
 }
 
 #PageContent {
@@ -88,14 +88,14 @@ header, footer {
 	font-weight: bold;
 	text-align: center;
 	padding: 0px;
-	color: goldenrod;
+	color: #EBAB21;
 	width:100%;
 }
 
 header {
 	background-color: #556;
 	border-radius: 6px 6px 0 0;
-	border-bottom: 4px solid cornflowerblue;
+	border-bottom: 4px solid #2C8ECE;
 	margin-top:30px;
 }
 
@@ -158,12 +158,12 @@ label {
 }
 
 a:link {
-  color: cornflowerblue;
+  color: #2C8ECE;
 	text-decoration: none;
 }
 
 a:visited {
-  color: black;
+  color: #003976;
 	text-decoration: none;
 }
 
