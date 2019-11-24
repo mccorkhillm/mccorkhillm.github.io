@@ -85,6 +85,7 @@ p.small {
 
 header, footer {
 	font-family: Garamond, serif;
+	weight: bold;
 	text-align: center;
 	padding: 0px;
 	color: goldenrod;
