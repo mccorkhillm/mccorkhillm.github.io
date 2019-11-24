@@ -111,8 +111,9 @@ footer {
 }
 
 footer span {
-	padding: 18px;
+	padding: 0px;
 	display: block;
+	margin: 0;
 }
 
 table {
