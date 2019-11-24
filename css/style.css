@@ -6,7 +6,7 @@ body {
 }
 
 h1, h2, h3, h4 {
-	font-family: Helvetica, sans-serif;
+	font-family: Garamond, serif;
 }
 
 h1 {
@@ -47,7 +47,7 @@ p.small {
 }
 
 #Menu {
-	background-color: #556;
+	background-color: #59595C;
 	position: fixed;
 	top:0;
 	width: 90%;
@@ -93,7 +93,7 @@ header, footer {
 }
 
 header {
-	background-color: #556;
+	background-color: #59595C;
 	border-radius: 6px 6px 0 0;
 	border-bottom: 4px solid #2C8ECE;
 	margin-top:30px;
@@ -108,7 +108,7 @@ header span {
 footer {
 	border-radius: 0 0 6px 6px;
 	border-top: 4px solid #2C8ECE;
-	background-color: #556
+	background-color: #59595C;
 }
 
 footer span {
@@ -128,7 +128,7 @@ table, tr, td {
 }
 
 table thead {
-	background: #556;
+	background: #59595C;
 	color: lightgrey;
 	font-weight: bold;
 	text-transform: uppercase;
@@ -169,7 +169,7 @@ a:visited {
 }
 
 a:hover {
-  color: goldenrod;
+  color: #EBAB21;
 	text-decoration: none;
 }
 
