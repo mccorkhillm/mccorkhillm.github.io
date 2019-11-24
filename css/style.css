@@ -107,11 +107,12 @@ header span {
 
 footer {
 	border-radius: 0 0 6px 6px;
+	border-top: 4px solid #2C8ECE;
 	background-color: #556
 }
 
 footer span {
-	padding: 0px;
+	padding: 18px;
 	display: block;
 }
 
