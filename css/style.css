@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
 
 body {
 	background: #003976;
@@ -9,38 +8,39 @@ body {
 
 
 h1 {
-	font-family: 'Raleway', sans-serif;
+	font-family: Avenir Next LT Pro, sans-serif;
 	text-align: center;
+	text-transform: uppercase;
 	font-size: 2em;
 	font-weight: 1000;
 }
 
 h2 {
-	font-family: 'Raleway', sans-serif;
+	font-family: Avenir Next LT Pro Light, sans-serif;
 	font-size: 1.5em;
 	color: #003976
 	font-weight: 800;
 }
 
 h3 {
-	font-family: 'Raleway', sans-serif;
+	font-family: Avenir Next LT Pro Light, sans-serif;
 	font-size: 1.25em;
 	font-weight: 600;
 }
 
 h4 {
-	font-family: 'Raleway', sans-serif;
+	font-family: Avenir Next LT Pro Light, sans-serif;
 	font-size: 1em;
 	font-style: italic;
 }
 
 p, ul, ol {
-	font-family: 'Raleway', sans-serif;
+	font-family: Avenir Next LT Pro Light, sans-serif;
 	line-height: 1.5em;
 }
 
 p.small {
-    font-family: 'Raleway', sans-serif;
+    font-family: Avenir Next LT Pro Light, sans-serif;
     font-weight: normal;
 		font-size: .75em
 }
@@ -58,7 +58,7 @@ p.small {
 }
 
 #Menu ul {
-		font-family: 'Raleway', sans-serif;
+		font-family: Avenir Next LT Pro, sans-serif;
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -89,7 +89,7 @@ p.small {
 
 
 header, footer {
-	font-family: 'Raleway', sans-serif;
+	font-family: Avenir Next LT Pro, sans-serif;
 	font-weight: bold;
 	text-align: center;
 	padding: 0px;
@@ -124,7 +124,7 @@ footer span {
 table {
 	width: 90%;
 	margin:0 auto;
-	font-family: 'Raleway', sans-serif;
+	font-family: Avenir Next LT Pro, sans-serif;
 	font-size:12px;
 }
 
@@ -154,13 +154,13 @@ table tr td:first-child {
 }
 
 textarea {
-	font-family: 'Raleway', sans-serif;
+	font-family: Avenir Next LT Pro, sans-serif;
 	width:100%;
 	height:100px;
 }
 
 label {
-    font-family: 'Raleway', sans-serif;
+    font-family: Avenir Next LT Pro, sans-serif;
 }
 
 a:link {
